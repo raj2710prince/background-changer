@@ -1,3 +1,5 @@
+[click here to visit site](https://raj2710prince.github.io/background-changer/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
